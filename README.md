@@ -1,3 +1,3 @@
 # hello-world
-My first repository on Github
-I love :coffe: pizza:, and :dance:.
+My first repository on Github 
+Testing Testing
